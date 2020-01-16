@@ -1,2 +1,1 @@
-# sha1infos
-Chứa thông tin sha1
+OK
